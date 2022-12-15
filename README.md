@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastiansossah
-- 👀 I’m interested in Data science and web develop
-- 🌱 I’m currently learning data science and backend
+- 👀 I’m interested in Data science 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on data 
 - 📫 How to reach me juansossa1468@gmail.com
 
